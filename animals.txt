@@ -1,4 +1,4 @@
-lion
+lion +chatton
 chien
 chat
 tigre
