@@ -3,3 +3,4 @@ chien
 chat
 tigre
 lapin
+cheval
